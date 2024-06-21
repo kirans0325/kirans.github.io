@@ -20,3 +20,6 @@ Creating a training and test set for reporting results
 
 Used **Python** The Rain Prediction project utilizes logistic regression to forecast the likelihood of rain. By analyzing historical weather data such as temperature, humidity, wind speed, and atmospheric pressure, the model identifies patterns and correlations that influence rainfall. The logistic regression algorithm transforms these variables into a probabilistic framework, providing predictions on whether it will rain or not. The project involves data preprocessing, feature selection, model training, and evaluation to ensure accuracy and reliability. The ultimate goal is to aid in weather forecasting, enabling better planning and preparedness for rain-dependent activities.
 
+### Customer_segmentation - clustering(K-Means)
+[Project - regression](https://github.com/kirans0325/ds_ml_projects/tree/master/k_means)
+K-Means clustering algorithm applied to a dataset of customer data. The scatter plot displays the distribution of customers based on two features: annual income and spending score. Different clusters are represented with distinct colors, and the cluster centers are highlighted.
